@@ -1,4 +1,4 @@
-#alx_be_shell
+# alx_be_shell
 
 0-iam_betty: script that switches the current user to the user betty
 
